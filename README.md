@@ -1,7 +1,5 @@
 ## Hello there!
-
 - 🎓 Estudante de engenharia de software na <a href="https://www4.unievangelica.edu.br">UniEVANGELICA</a>
-- 🎂 19y 
 - 🔭 Analista de midias digitais
 - 🌱 Atualmente estou estudando C++, JS e html
 ##
