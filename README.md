@@ -1,11 +1,13 @@
-## Hello there!
+
+## Hello there! <img align="left" alt="helloAle" height="50" width="50" src="https://media.giphy.com/media/l2JI9STocBUNT3zA4/giphy.gif"> <img align="right" alt="helloAle" height="50" width="50" src="https://media.giphy.com/media/l2JI9STocBUNT3zA4/giphy.gif"> 
+
+<br>
+
 - 🎓 Estudante de engenharia de software na <a href="https://www4.unievangelica.edu.br">UniEVANGELICA</a>
 - 🔭 Analista de midias digitais
 - 🌱 Atualmente estou estudando C++, JS e html
 
 ##
-<img align="right" alt="helloAle" height="180" width="180" src="https://media.giphy.com/media/l2JI9STocBUNT3zA4/giphy.gif">
-
 
  <div>
   <a href="https://github.com/helloAle">
@@ -34,4 +36,4 @@
   
   ##
   
-  
+  <img align="left" alt="helloAle" height="50" width="50" src="https://media.giphy.com/media/l2JI9STocBUNT3zA4/giphy.gif"> <img align="right" alt="helloAle" height="50" width="50" src="https://media.giphy.com/media/l2JI9STocBUNT3zA4/giphy.gif"> 
