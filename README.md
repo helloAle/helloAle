@@ -1,7 +1,7 @@
 
 ## Hello there! <img align="left" alt="helloAle" height="50" width="50" src="https://media.giphy.com/media/l2JI9STocBUNT3zA4/giphy.gif"> <img align="right" alt="helloAle" height="50" width="50" src="https://media.giphy.com/media/l2JI9STocBUNT3zA4/giphy.gif"> 
-
-<br>
+ 
+<h3> ⠀Pode me chamar de Alê! </h3>
 
 - 🎓 Estudante de engenharia de software na <a href="https://www4.unievangelica.edu.br">UniEVANGELICA</a>
 - 🔭 Analista de midias digitais
