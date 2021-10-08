@@ -11,12 +11,12 @@
 
  <div align="center">
    <a href="https://github.com/helloAle"> <br>
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=helloAle&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloAle&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=helloAle&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloAle&layout=compact&langs_count=7&theme=discord_old_blurple"/>
  </div>
    
  ##
- <div align="center">
+ <div align="left">
  <h3> Linguagens de programação </h3>
    <div style="display: inline_block">
     <img align="center" alt="ale-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
@@ -29,7 +29,7 @@
   
   ##
    <div>
-        <div align="center">
+        <div align="left">
         <a text align="left" href = "mailto:ale.oliveira.deet@gmail.com">
          <img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"   target="_blank"></a>
         <a text align="left" href="https://www.linkedin.com/in/alexandre-oliveira-819ba6195/" target="_blank">
