@@ -5,15 +5,15 @@
 
 - 🎓 Estudante de engenharia de software na <a href="https://www4.unievangelica.edu.br">UniEVANGELICA</a>
 - 🔭 Analista de midias digitais
-- 🌱 Atualmente estou estudando C++, JS e html
+- 🌱 Atualmente estou estudando para ser fullstack e nos tempos livres um pouco de redes neurais🧠!
 
 ##
 
- <div align="center">
+ <div align="left">
    <a href="https://github.com/helloAle"> <br>
    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=helloAle&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloAle&layout=compact&langs_count=7&theme=discord_old_blurple"/>
- </div>
+ </div> 
    
  ##
  <div align="left">
@@ -25,7 +25,6 @@
     <img align="center" alt="ale-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="ale-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> 
   </div>  
-  <br>
   
   ##
    <div>
