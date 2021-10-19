@@ -45,5 +45,3 @@
  ![Snake animation](https://github.com/helloAle/helloAle/blob/output/github-contribution-grid-snake.svg)
   
   ##
-  
-  <img align="left" alt="helloAle" height="50" width="50" src="https://media.giphy.com/media/l2JI9STocBUNT3zA4/giphy.gif"> <img align="right" alt="helloAle" height="50" width="50" src="https://media.giphy.com/media/l2JI9STocBUNT3zA4/giphy.gif"> 
