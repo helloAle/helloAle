@@ -43,5 +43,3 @@
  ##
  
  ![Snake animation](https://github.com/helloAle/helloAle/blob/output/github-contribution-grid-snake.svg)
-  
-  ##
