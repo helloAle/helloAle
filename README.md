@@ -17,7 +17,7 @@
    
  ##
  <div align="left">
- <h3> Linguagens de programação </h3>
+ <h3> Conhecimentos em: </h3>
    <div style="display: inline_block">
     <img align="center" alt="ale-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img align="center" alt="ale-cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
