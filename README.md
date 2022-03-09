@@ -17,8 +17,10 @@
    
  ##
  <div align="left">
- <h3> Conhecimentos em: </h3>
-   <div style="display: inline_block">
+ <h3> ⠀Conhecimentos em: </h3>
+  
+  <div style="display: inline_block">
+   ⠀
     <img align="center" alt="ale-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img align="center" alt="ale-cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
     <img align="center" alt="ale-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -38,7 +40,7 @@
         <a href="https://www.instagram.com/szxand/" target="_blank">
          <img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"     target="_blank"></a>
          </div>
-    </div>
+   </div>
  
  ##
  
