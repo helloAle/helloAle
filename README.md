@@ -4,8 +4,8 @@
 <h3> ⠀You can call me Alt! </h3>
 
 - 🎓 Estudante de engenharia de software na <a href="https://www4.unievangelica.edu.br">UniEVANGELICA</a>
-- ☕ Desenvolvedor front end.
-- 👨‍💻 Analista de Mídias Digitais
+- ☕ Product designer.
+- 👨‍💻 Analista de Mídias Digitais.
 
 ##
 
