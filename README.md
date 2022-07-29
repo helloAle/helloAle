@@ -1,5 +1,5 @@
 
-## Hello there! <img align="left" alt="helloAle" height="50" width="50" src="https://media.giphy.com/media/l2JI9STocBUNT3zA4/giphy.gif"> <img align="right" alt="helloAle" height="50" width="50" src="https://media.giphy.com/media/l2JI9STocBUNT3zA4/giphy.gif"> 
+##    Hello there! <img align="left" alt="helloAle" height="50" width="50" src="https://media.giphy.com/media/l2JI9STocBUNT3zA4/giphy.gif"> <img align="right" alt="helloAle" height="50" width="50" src="https://media.giphy.com/media/l2JI9STocBUNT3zA4/giphy.gif"> 
  
 <h3> ⠀You can call me Alt! </h3>
 
@@ -28,7 +28,6 @@
     <img align="center" alt="ale-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="ale-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> 
   </div>  
-  
   
   ##
    <div>
