@@ -6,7 +6,7 @@
 - 🎓 Estudante de engenharia de software na <a href="https://www4.unievangelica.edu.br">UniEVANGELICA</a>
 - 💻 Dev em andamento.
 - ☕ Product designer.
-- 👨‍💻 Analista de Mídias Digitais.
+- 👨‍💻 Desenvolvedor Backend.
 
 ##
 
