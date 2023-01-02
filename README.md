@@ -3,7 +3,7 @@
  
 <h3> ⠀Hello! </h3>
 
-- 🎓 Estudante de engenharia de software na <a href="https://www4.unievangelica.edu.br">UniEVANGELICA</a>
+- 🎓 Estudante de engenharia de software na <a href="https://www4.unievangelica.edu.br">UniEVANGELICA</a> (5/8)
 - 💻 Dev em andamento.
 - ☕ Product designer.
 - 👨‍💻 Desenvolvedor Backend.
