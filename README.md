@@ -1,9 +1,9 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFD700&width=435&lines=Salut!)](https://git.io/typing-svg)
  
 <h3> ⠀Alê aqui! </h3>
-<img align="left" alt="helloAle" height="160" width="160" src="https://media.giphy.com/media/GkD4U3VfiIbzcBhQNu/giphy.gif">
+<img align="left" alt="helloAle" height="150" width="150" src="https://media.giphy.com/media/GkD4U3VfiIbzcBhQNu/giphy.gif">
 
-<img align="right" alt="helloAle" height="160" width="160" src="https://media.giphy.com/media/GkD4U3VfiIbzcBhQNu/giphy.gif">
+<img align="right" alt="helloAle" height="150" width="150" src="https://media.giphy.com/media/GkD4U3VfiIbzcBhQNu/giphy.gif">
 
 <div>
  
