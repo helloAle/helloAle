@@ -19,7 +19,7 @@
 
 ##
 
- <div align="left">
+ <div align="center">
    <a href="https://github.com/helloAle"> <br>
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=helloAle&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloAle&layout=compact&langs_count=7&theme=nord"/>
