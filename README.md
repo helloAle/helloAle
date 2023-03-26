@@ -9,11 +9,11 @@
  
     🎓 Estudante de engenharia de software [5/8]
  
-    💻 Dev em andamento.
+    💻 Desenvolvedor backend com um pé no front
  
-    ☕ Product designer.
+    ☕ Designer nas horas vagas
  
-    👨‍💻 Desenvolvedor Backend.
+    👨‍💻 As vezes Social media
 </div>
 
 
