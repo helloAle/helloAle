@@ -66,5 +66,9 @@
  ![Snake animation](https://github.com/helloAle/helloAle/blob/output/github-contribution-grid-snake.svg)
  ##
   
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=FFD700&width=435&lines=Até+mais+e+obrigado+pelos+peixes!!)](https://git.io/typing-svg)
+  <img align="center" alt="helloAle" height="158" src="https://media.giphy.com/media/6KGPoV1Z61IpDZyTeN/giphy.gif">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=FFD700&width=435&lines=Até+mais+e+obrigado+pelos+peixes!!)](https://git.io/typing-svg)
 <!--   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDAE&width=435&lines=e+obrigado+pelos+peixes!)](https://git.io/typing-svg) -->
+  
+ ##
