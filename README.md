@@ -58,6 +58,6 @@
          <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
         <a href="https://www.instagram.com/szxand/" target="_blank">
          <img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"     target="_blank"></a>
-         <h6 align="center">clica nesse aqui ☝☝ㅤㅤㅤㅤㅤㅤㅤㅤㅤ</h6>
+         <h6 align="center">clica nesse aqui ☝☝ㅤㅤㅤㅤㅤ ㅤㅤ ㅤㅤ</h6>
          </div>
    </div>
