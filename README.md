@@ -35,6 +35,17 @@
  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"></code>
+ 
+ ##
+  
+  <img align="center" alt="helloAle" height="158" src="https://media.giphy.com/media/6KGPoV1Z61IpDZyTeN/giphy.gif">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=FFD700&width=435&lines=Até+mais+e+obrigado+pelos+peixes!!)](https://git.io/typing-svg)
+<!--   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDAE&width=435&lines=e+obrigado+pelos+peixes!)](https://git.io/typing-svg) -->
+ 
+ ##
+ 
+ ![Snake animation](https://github.com/helloAle/helloAle/blob/output/github-contribution-grid-snake.svg)
   
   ##
    <div>
@@ -49,14 +60,3 @@
          <img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"     target="_blank"></a>
          </div>
    </div>
- 
- ##
-  
-  <img align="center" alt="helloAle" height="158" src="https://media.giphy.com/media/6KGPoV1Z61IpDZyTeN/giphy.gif">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=FFD700&width=435&lines=Até+mais+e+obrigado+pelos+peixes!!)](https://git.io/typing-svg)
-<!--   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDAE&width=435&lines=e+obrigado+pelos+peixes!)](https://git.io/typing-svg) -->
- 
- ##
- 
- ![Snake animation](https://github.com/helloAle/helloAle/blob/output/github-contribution-grid-snake.svg)
