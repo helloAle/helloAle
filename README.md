@@ -7,7 +7,7 @@
     ☕hobbies = ["gym", "cycling", "chess"]
 
     if "developer" in profession:
-        profession += ", coffee lover☕"
+        hobbies += ", coffee lover☕"
 
  
 </div>
