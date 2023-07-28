@@ -1,13 +1,12 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFD700&width=435&lines=Salut!)](https://git.io/typing-svg)
 <div>
+
+   Hi, my name is Alexandre. You can see more about me at <a href="https://helloale.github.io/portfolio">helloale.github.io/portfolio</a>. Here's some more information about me:
  
     😃name = "Alexandre"
     👾age = 21
     🎓profession = "developer and designer"
     ☕hobbies = ["gym", "cycling", "chess"]
-
-    if "developer" in profession:
-        hobbies += ", coffee lover☕"
 
  
 </div>
