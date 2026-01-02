@@ -4,7 +4,7 @@
    Hi, my name is Alexandre, you can see more about me at <a href="https://helloale.github.io/portfolio">helloale.github.io/portfolio</a>. Here's some more information about me:
  
     😃name = "Alexandre"
-    👾age = 23
+    👾age = 24
     🎓profession = "developer and designer"
     ☕hobbies = ["gym", "cycling", "chess"]
 
