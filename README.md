@@ -5,8 +5,8 @@
  
     😃name = "Alexandre"
     👾age = 24
-    🎓profession = "developer and designer"
-    ☕hobbies = ["gym", "cycling", "chess"]
+    🎓profession = "Software engineer, developer and designer"
+    ☕hobbies = ["gym", "cycling", "???"]
 
  
 </div>
